@@ -2,4 +2,4 @@
 Pythonを使用したプロジェクトのテンプレート
 
 ## 環境構築
-ルートディレクトリで`poetry install`を実行する。
+ルートディレクトリで`poetry install --no-root`を実行する。
